@@ -1,0 +1,2 @@
+# OneCore
+.net core 
